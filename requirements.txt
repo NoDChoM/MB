@@ -1,0 +1,9 @@
+discord #디스코드 메인 모듈
+discord.ext
+discord.utils
+discord.ext.commands.Bot
+datetime
+youtube_search
+json
+asyncio
+import youtube_dl
